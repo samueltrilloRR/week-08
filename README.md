@@ -1,3 +1,3 @@
-### Node - NPM Examples ###
+### Branching example ###
 
-Example of how to use Node JS and NPM
+Example of how to create new branch from a main branch and do a Pull Request
